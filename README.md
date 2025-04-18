@@ -1,7 +1,10 @@
 ## 你好，我是mostecho！
 
+
+<img width="80%" alt="欢迎来到我的博客！" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" style="max-width: 100% ;">
+
 <a href="www.blog.monstecho.top">
-  <img align="center" src="https://bu.dusays.com/2025/04/18/6802345a83a40.png" />
+  <img align="center" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" />
 </a>
 
 
