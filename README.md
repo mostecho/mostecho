@@ -1,10 +1,8 @@
 ## 你好，我是mostecho！
 
-<center><b>这是我的个人博客</b></center>
-
 
 <a href="https://www.blog.monstecho.top">
-  <img width="80%" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" />
+  <img width="60%" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" />
 </a>
 
 
