@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 [![Top Langs](https://github-readme-stats-dusky-alpha.vercel.app/api/top-langs/?username=mostecho&layout=donut-vertical)](https://github.com/mostecho/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/mostecho/github-readme-stats">
