@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats-dusky-alpha.vercel.app/api/top-langs/?username=mostecho&layout=donut-vertical)](https://github.com/mostecho/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats-dusky-alpha.vercel.app/api/wakatime?username=mostecho)](https://github.com/mostecho/github-readme-stats)
 
 <a href="https://github.com/mostecho/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
