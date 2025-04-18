@@ -6,11 +6,11 @@
 </a>
 
 <a href="https://github.com/mostecho/github-readme-stats">
-    <img width="20%" align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/top-langs/?username=mostecho&layout=donut-vertical"/>
+    <img align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/top-langs/?username=mostecho&layout=donut-vertical"/>
 </a>
 
 <a href="https://github.com/mostecho/github-readme-stats">
-  <img width="30%" align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/wakatime?username=monstecho"/>
+  <img width="50%" align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/wakatime?username=monstecho"/>
 </a>
 
 
