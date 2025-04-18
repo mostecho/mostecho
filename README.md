@@ -13,7 +13,7 @@
   <img width="50%" align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/wakatime?username=monstecho"/>
 </a>
 
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username={mostecho}&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
 <!--
 **mostecho/mostecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
