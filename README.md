@@ -2,7 +2,7 @@
 
 
 <a href="https://www.blog.monstecho.top">
-  <img width="45%" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" />
+  <img width="55%" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" />
 </a>
 
 
