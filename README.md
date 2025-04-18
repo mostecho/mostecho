@@ -1,7 +1,7 @@
 ## 你好，我是mostecho！
 
 <a href="www.blog.monstecho.top">
-  <img align="center" src="https://bu.dusays.com/2024/11/15/67370d8563fe4.jpg" />
+  <img align="center" src="https://bu.dusays.com/2025/04/18/6802345a83a40.png" />
 </a>
 
 
