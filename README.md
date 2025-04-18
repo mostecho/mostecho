@@ -10,11 +10,11 @@
 
 
 <a href="https://github.com/mostecho/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/wakatime?username=monstecho"/>
+  <img height=200 align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/wakatime?username=monstecho"/>
 </a>
 
 <a href="https://github.com/mostecho/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostecho&repo=github-readme-stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mostecho&repo=github-readme-stats" />
 </a>
 
 <!--
