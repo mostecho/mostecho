@@ -1,6 +1,6 @@
 ## 你好，我是mostecho！
 
-<a href="https:www.blog.monstecho.top" rel="nofollow">>
+<a href="https://www.blog.monstecho.top">
   <img align="center" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" />
 </a>
 
