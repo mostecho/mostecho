@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/mostecho/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/wakatime?username=monstecho"/>
+  <img align="center" src="https://github-readme-stats-dusky-alpha.vercel.app/api/wakatime?username=monstecho"/>
 </a>
 
 
