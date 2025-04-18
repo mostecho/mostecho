@@ -2,7 +2,7 @@
 
 
 <a href="https://www.blog.monstecho.top">
-  <img width="65%" height="65%" align="center" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" />
+  <img width="40%" height="40%" align="center" src="https://bu.dusays.com/2025/04/18/6802351bce278.png" />
 </a>
 
 <a href="https://github.com/mostecho/github-readme-stats">
